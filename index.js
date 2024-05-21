@@ -32,8 +32,8 @@ btnjon.addEventListener("click", e => {
   Form.style.padding = "80px";
   Form.style.position = "fixed";
   Form.style.height = "auto"; // Corrected typo
-  Form.style.marginTop = "-1300px"; // This is a large negative margin, check if this is intentional
-  Form.style.marginLeft = "500px";
+  Form.style.marginTop = "200px"; // This is a large negative margin, check if this is intentional
+  Form.style.marginLeft = "450px";
   Form.style.backgroundColor = "aliceblue";
 });
 
