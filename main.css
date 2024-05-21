@@ -1,0 +1,23 @@
+#main-form{
+    display: none;
+}
+#boxlist{
+    list-style: none;
+    width: 900px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.listess{
+    background-color: aliceblue;
+    width: 890px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#header-btn{
+    background: rgb(2, 89, 182);
+    color: white;
+    border: transparent;
+    border-radius: 5px;
+}
